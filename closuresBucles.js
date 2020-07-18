@@ -3,7 +3,7 @@ for (var i = 1; i <= 5; i++) {
         var z = i;
         setTimeout(function () {
             console.log(z);
-        }, z * 1000);
+        }, z * 2000);
     }
     // miFuncion();
 }
